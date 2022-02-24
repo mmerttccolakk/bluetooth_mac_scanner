@@ -8,8 +8,8 @@
 const int NUMBER_OF_ELEMENTS = 2; //need to chance how many mac 
 const int MAX_SIZE = 18;
 char beacons [NUMBER_OF_ELEMENTS] [MAX_SIZE] = {
-  { "38:fb:14:ed:4c:a3" }, //Beacon #1 headphone
-  { "88:40:3b:ed:b7:6d" }, //Beacon #2 HUAWEI WATCH GT 2
+  { "xx:xx:xx:xx:xx:xx" }, //Beacon #1 headphone
+  { "xx:xx:xx:xx:xx:xx" }, //Beacon #2 HUAWEI WATCH GT 2
 };
 
 //variables
